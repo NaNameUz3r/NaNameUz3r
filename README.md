@@ -14,7 +14,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized-large.gif"/>
+<img align="right" alt="image" src="https://preview.redd.it/uvajzq0ce6741.png?width=960&crop=smart&auto=webp&s=8b242cc931a3690a95dc64bb7ed65c142a56e236"/>
 
 <br />
 
