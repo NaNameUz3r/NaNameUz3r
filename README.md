@@ -14,8 +14,8 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif"/>
-<iframe src="https://giphy.com/embed/kJ1iL1ZQIyibu" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kJ1iL1ZQIyibu">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/kJ1iL1ZQIyibu/source.gif"/>
+
 <br />
 
 **Languages and Tools:**  
