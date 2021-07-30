@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
 
 <a href="https://www.linkedin.com/in/ivan-zakutnii-a43851203/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,13 +10,14 @@
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+
 <br />
 
 Привет, меня зовут Иван, я администратор баз данных. Кроме этого учусь программировать и интересуюсь DevOps практиками и информационной безопасностью.
 
 <br />
 
-<img align="right" alt="image" src="https://preview.redd.it/uvajzq0ce6741.png?width=960&crop=smart&auto=webp&s=8b242cc931a3690a95dc64bb7ed65c142a56e236"/>
+<img align="right" alt="image" src="https://preview.redd.it/uvajzq0ce6741.png?width=960&crop=smart&auto=webp&s=8b242cc931a3690a95dc64bb7ed65c142a56e236"/ width=200px>
 
 <br />
 
