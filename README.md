@@ -1,10 +1,11 @@
 ##  Greetings :metal::blush:, This is Ivan!
 
 I am DevOps engineer at Flant. 
-I study computer science step by step, mainly under the strict guidance of [Sergei Bobrovsky](https://vk.com/lambda_brain) 
+I study computer science step by step, mainly under the strict guidance of [Sergei Bobrovsky](https://vk.com/lambda_brain).
 You can check my learning tracker and log in [this repository](https://github.com/NaNameUz3r/My-Learning-Tracker)
 
 I also write a [blog](https://wannahack.in/) on the topics that I study. So far only in Russian. 
+
 ---
 
 ### Social
