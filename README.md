@@ -1,5 +1,6 @@
-###  Hello Firend.
+###  Greetings :metal::blush:, This is Ivan!
 
-<img align="center" alt="image" src="https://preview.redd.it/uvajzq0ce6741.png?width=960&crop=smart&auto=webp&s=8b242cc931a3690a95dc64bb7ed65c142a56e236">
+I am DevOps engineer at Flant. 
+I study computer science step by step, mainly under the strict guidance of [Sergei Bobrovsky](https://vk.com/lambda_brain) 
 
-<br />
+
