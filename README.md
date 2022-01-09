@@ -2,7 +2,7 @@
 
 - :penguin: I am DevOps engineer at Flant. 
 - :mag_right: I study computer science step by step, mainly under the strict guidance of [Sergei Bobrovsky](https://vk.com/lambda_brain).
-- :rocket: You can check my learning tracker and log in [this repository](https://github.com/NaNameUz3r/My-Learning-Tracker)
+- :rocket: You can check my learning tracker and log in [this repository](https://github.com/NaNameUz3r/My-Learning-Tracker).
 - :pencil2: I also write a [blog](https://wannahack.in/) on the topics that I study. So far only in Russian. 
 
 ---
